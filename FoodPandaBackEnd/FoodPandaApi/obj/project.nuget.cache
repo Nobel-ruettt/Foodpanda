@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BmXOFeYYigWUmDzuuuN7itq1tgMjb6G/aJUJqWTfxQ1VP+xbSH/Yk2tDKuK+ocGcrWc6Sdj0pPxpkwtfYfXUQw==",
+  "success": true,
+  "projectFilePath": "D:\\Codes\\FoodPanda\\FoodPandaBackEnd\\FoodPandaApi\\FoodPandaApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\cloudinarydotnet\\1.14.0\\cloudinarydotnet.1.14.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,47 @@
+{
+  "SourceType": "UserSignUpForm",
+  "FieldDefinitions": [
+    {
+      "Header": "First Name",
+      "Key": "FirstName",
+      "Type": "String",
+      "IsRequired": true
+    },
+    {
+      "Header": "Last Name",
+      "Key": "LastName",
+      "Type": "String",
+      "IsRequired": true
+    },
+    {
+      "Header": "User Name",
+      "Key": "UserName",
+      "Type": "String",
+      "IsRequired": true
+    },
+    {
+      "Header": "Email",
+      "Key": "Email",
+      "Type": "String",
+      "IsRequired": true
+    },
+    {
+      "Header": "Phone Number",
+      "Key": "PhoneNumber",
+      "Type": "String",
+      "IsRequired": true
+    },
+    {
+      "Header": "Password",
+      "Key": "Password",
+      "Type": "String",
+      "IsRequired": true
+    },
+    {
+      "Header": "Profile Picture",
+      "Key": "ProfilePic",
+      "Type": "File",
+      "IsRequired": false
+    }
+  ] 
+}
